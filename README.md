@@ -1,7 +1,13 @@
-# Chad Carbert
-* [chadcarbert@me.com](mailto:chadcarbert@me.com)
-* [twitter](https://twitter.com/chadian)
-* [blog](http://sticksnglue.com)
+[//]: # (sorry for the small bit of non-markdown html 😐, it makes things a tad prettier)
+<p align="center">
+  <img src="https://www.gravatar.com/avatar/812d335fd352057dde17e507064c71f3.jpg?s=250">
+</p>
+<h1 align="center">Chad Carbert</h1>
+<p align="center">
+  <a href="chadcarbert@me.com">chadcarbert@me.com</a>
+  <a href="https://twitter.com/chadian">twitter</a>
+  <a href="http://sticksnglue.com">blog</a>
+</p>
 
 ## Education
 ### Bachelor of Commerce, Accounting
