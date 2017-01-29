@@ -1,3 +1,29 @@
+/*
+
+  css alterations
+
+*/
+
+/*
+  body zoom hack added to shrink the output
+  of what is produced when processed through
+  markdown-pdf and phantomjs
+*/
+body {
+  zoom: 0.5;
+}
+
+/*
+  Hide url shown after link as part of markdown-pdf
+*/
+a[href]:after { content : "" }
+
+
+/*
+
+  github markdown css
+
+*/
 body {
   font-family: Helvetica, arial, sans-serif;
   font-size: 14px;
