@@ -1,0 +1,13 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "repository": "git@github.com:chadian/resume.git",
+  "author": "Chad Carbert <chadcarbert@me.com>",
+  "license": "MIT",
+  "scripts": {
+    "generate" : "markdown-pdf --css-path github-markdown.css README.md"
+  },
+  "dependencies": {
+    "markdown-pdf": "^7.0.0"
+  }
+}
