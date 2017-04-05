@@ -50,7 +50,10 @@
 
 ### [Attain Solutions](http://attainsolutions.ca)
 #### Financial Business Analyst
-* **July 2011 - January 2013*** Design, analysis and research of Oracle PeopleSoft Financials and its application towards client business processes* Communication and organization with team members, stakeholders and clients to ensure client goals were met* Training and support to provide the best potential outcome of the system for clients 
+* **July 2011 - January 2013**
+* Design, analysis and research of Oracle PeopleSoft Financials and its application towards client business processes
+* Communication and organization with team members, stakeholders and clients to ensure client goals were met
+* Training and support to provide the best potential outcome of the system for clients 
 
 ## Skills & Interests
 ### Developer Skills
@@ -72,10 +75,12 @@
 * [Technical blog](http://sticksnglue.com)
 * [StackOverflow](http://stackoverflow.com/users/2482082/chad-carbert)
 * Code for America, Hour of Code 2016
+* Mentor with the EmberConf 2017 Mentorship Program
 * Conferences
   * EmberConf 2014
   * EmberConf 2015
   * EmberConf 2016
+  * EmberConf 2017
   * Front End Design Conference 2014
   * Node Interactive 2016
 * [FastBoot to the Future - Ember PDX Meetup Talk](https://www.meetup.com/Ember-PDX/events/236506211/)
