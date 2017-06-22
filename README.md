@@ -77,6 +77,7 @@
 * Code for America, Hour of Code 2016
 * Mentor with the EmberConf 2017 Mentorship Program
 * Conferences
+  * JSConf EU 2017
   * EmberConf 2014
   * EmberConf 2015
   * EmberConf 2016
