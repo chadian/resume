@@ -13,47 +13,60 @@
 ### Bachelor of Commerce, Accounting
 * **September 2005 - May 2010**
 * [University of Alberta, School of Business](https://www.ualberta.ca/business)
-* Edmonton, AB, Canada
+* Edmonton 🇨🇦
 
 ### European Business Exchange
 * **January 2009 - May 2009**
 * [European Business School](https://www.ebs.edu/en)
-* Oestrich-Winkel, Germany
+* Oestrich-Winkel 🇩🇪
 
 ## Work Experience
-### [Dexcom](http://dexcom.com)
+### [Home24 AG](https://home24.de)
+#### Berlin 🇩🇪
+#### Senior Software Engineer
+* **September 2017 - Present**
+* Crafting front end e-commerce experiences from a single-page application perspective
+* Migrating from legacy patterns to React using microservice patching
+* Implementing build and deployment architecture for front end microservices
+
+### [Dexcom](https://dexcom.com)
+#### Portland 🇺🇸
 #### Software Engineer
-* **May 2016 - Present**
+* **May 2016 - August 2017**
 * Building [medical web applications](https://www.dexcom.com/clarity) in Ember that help diabetics better understand and manage their condition
 * Helping integrate front end application with other microservices and REST endpoints
 * Collaborating with functional teams to coordinate application efforts and requirements
 
-### [Connective DX](http://connectivedx.com)
+### [Connective DX](https://connectivedx.com)
+#### Portland 🇺🇸
 #### Senior Front End Engineer
 * **November 2014 - May 2016**
-* Aligned with cross-discipline teams to produce robust front end experiences with consistent mark-up, well structured CSS and modular javascript.
+* Aligning with cross-discipline teams to produce robust front end experiences with consistent mark-up, well-structured CSS and modular javascript.
 * Architecting front end build tooling and internal framework support
-* Lead javascript talk series with tech department
+* Instruction of javascript talk series with tech department
 
 ### Independent Contractor
+#### Edmonton 🇨🇦
 #### Web Developer
 * **February 2014 - October 2014**
-* Building tailored CMS and e-commerce solutions
+* Building tailored CMS and e-commerce web solutions
 * Developing client relationships by understanding needs and filtering requirements
-* Consulting on best available solutions given constraints and available resources
+* Consultation on best available solutions given constraints and available resources
 
 ### [Hybrid Global](https://hybridglobalinc.com)
+#### Edmonton 🇨🇦
 #### e-commerce Lead
 * **January 2013 - February 2014**
-* Coordinated and managed a wide range of e-commerce projects including implementations, upgrades, re-designs, enhancements and consultations
+* Coordinating and managing a wide range of e-commerce projects including implementations, upgrades, re-designs, enhancements and consultations
 * Specialization in Magento full-stack development, configuration and deployments
 
 ### [Attain Solutions](http://attainsolutions.ca)
+#### Edmonton 🇨🇦
 #### Financial Business Analyst
 * **July 2011 - January 2013**
-* Design, analysis and research of Oracle PeopleSoft Financials and its application towards client business processes
-* Communication and organization with team members, stakeholders and clients to ensure client goals were met
-* Training and support to provide the best potential outcome of the system for clients 
+* Analysis, research and deisgn of tailored solutions within Oracle PeopleSoft Financials
+* Coordination and organization with team members, stakeholders and clients to ensure client expectations were achieved
+* Training and support to provide the best utility for clients
 
 ## Skills & Interests
 ### Developer Skills
@@ -74,8 +87,8 @@
 * [GitHub](https://github.com/chadian)
 * [Technical blog](http://sticksnglue.com)
 * [StackOverflow](http://stackoverflow.com/users/2482082/chad-carbert)
-* Code for America, Hour of Code 2016
-* Mentor with the EmberConf 2017 Mentorship Program
+* Volunteer Instructor, Code for America, Hour of Code 2016
+* Mentor, EmberConf 2017 Mentorship Program
 * Conferences
   * JSConf EU 2017
   * EmberConf 2014
@@ -86,8 +99,11 @@
   * Node Interactive 2016
 * [FastBoot to the Future - Ember PDX Meetup Talk](https://www.meetup.com/Ember-PDX/events/236506211/)
   * [Notes](https://github.com/chadian/fttf)
+* [Design Patterns in Ember - Ember Berlin Meetup Talk](https://www.meetup.com/Ember-js-Berlin/events/246067073/)
+  * [Notes](https://github.com/chadian/ember-js-berlin-design-patterns)
 
 ### Interests
 * Triathlons, running, biking, hiking and exploring the outdoors
 * Riding around aimlessly enjoying the urban landscape: cafes, restaurants and parks
 * Discovering interesting ideas at the intersection of design and technology
+* Using technology to teach and inspire
