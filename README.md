@@ -10,18 +10,6 @@
   <a href="http://sticksnglue.com">Blog</a>
 </p>
 
-## Education
-### Bachelor of Commerce, Accounting
-* **September 2005 - May 2010**
-* [University of Alberta, School of Business](https://www.ualberta.ca/business)
-* Edmonton 🇨🇦
-
-### European Business School
-* **January 2009 - May 2009**
-* [European Business School](https://www.ebs.edu/en)
-* Oestrich-Winkel 🇩🇪
-* [University of Alberta International Exchange Program](https://www.ualberta.ca/business/international/outgoing-exchange)
-
 ## Work Experience
 ### [kloeckner.i](https://www.kloeckner-i.com/en/)
 #### Berlin 🇩🇪
@@ -70,13 +58,17 @@
 * Coordinating and managing a wide range of e-commerce projects including implementations, upgrades, re-designs, enhancements and consultations
 * Specialization in Magento full-stack development, configuration and deployments
 
-### [Attain Solutions](http://attainsolutions.ca)
-#### Edmonton 🇨🇦
-#### Financial Business Analyst
-* **July 2011 - January 2013**
-* Analysis, research and deisgn of tailored solutions within Oracle PeopleSoft Financials
-* Coordinating and organizing with team members, stakeholders and clients to ensure client expectations were achieved
-* Training and support to provide the best utility for clients
+## Education
+### Bachelor of Commerce, Accounting
+* **September 2005 - May 2010**
+* [University of Alberta, School of Business](https://www.ualberta.ca/business)
+* Edmonton 🇨🇦
+
+### European Business School
+* **January 2009 - May 2009**
+* [European Business School](https://www.ebs.edu/en)
+* Oestrich-Winkel 🇩🇪
+* [University of Alberta International Exchange Program](https://www.ualberta.ca/business/international/outgoing-exchange)
 
 ## Skills & Interests
 ### Developer Skills
