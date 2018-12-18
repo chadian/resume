@@ -5,9 +5,9 @@
   "author": "Chad Carbert <chadcarbert@me.com>",
   "license": "MIT",
   "scripts": {
-    "generate" : "markdown-pdf --css-path github-markdown.css README.md"
+    "generate": "md-to-pdf --stylesheet github-markdown.css README.md resume.pdf"
   },
   "dependencies": {
-    "markdown-pdf": "^7.0.0"
+    "md-to-pdf": "^2.4.2"
   }
 }
