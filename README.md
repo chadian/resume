@@ -106,7 +106,7 @@
 #### Open Source Contributions
 
 * [HospitalRun](http://hospitalrun.io/) ([GitHub](https://github.com/HospitalRun/hospitalrun-frontend)) - An open source hospital application aimed at helping the developing world. [My contributions](https://github.com/HospitalRun/hospitalrun-frontend/commits?author=chadian) include upgrading their Ember testing suite, migrating translation libraries, and improving the way external pacakges are included within the application via `ember-auto-import`.
-* I am always interested in finding opprortunities to have a discussion, brainstorm solutions to an issue, or create a pull request. Check out my [other contributions and work](https://github.com/chadian).
+* I am always interested in finding opportunities to have a discussion, brainstorm solutions to an issue, or create a pull request. Check out my [other contributions and work](https://github.com/chadian).
 
 #### Talks
 * [Ember and GraphQL in Practice - EmberFest Conference 2018](https://emberfest.eu/schedule/#rocky-neurock)
