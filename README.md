@@ -99,7 +99,7 @@
 
 #### Instruction and Mentorship
 * Volunteer Instructor, Introduction to Javascript and Front-End Web Development.
- [ReDI School](https://www.redi-school.org/berlin-career-program) (Spring 2018, Fall 2018)
+ [ReDI School](https://www.redi-school.org/berlin-career-program) (Spring 2018, Fall 2018, Spring 2019)
 * Volunteer Instructor, [Hour of Code 2016](https://hourofcode.com)
 * EmberConf 2017 Mentor, EmberConf Mentorship Program
 
