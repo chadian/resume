@@ -114,15 +114,16 @@
 * I am always interested in finding opportunities to have a discussion, brainstorm solutions to an issue, or create a pull request. Check out my [other contributions and work](https://github.com/chadian).
 
 #### Talks
-* [Ember and GraphQL in Practice - EmberFest Conference 2018](https://emberfest.eu/schedule/#rocky-neurock)
+* [Ember, GraphQL and Testing - GOTO Night](https://eventil.com/events/goto-night-exploring-modern-web-development-ember-graphql-and-testing), Berlin 🇩🇪
+* [Ember and GraphQL in Practice - EmberFest Conference 2018](https://emberfest.eu/schedule/#rocky-neurock), Amsterdam 🇳🇱
   * [YouTube](https://www.youtube.com/watch?v=kgfBexYbM68&t=3s)
-* [Data Flow in Ember - Ember Berlin Meetup](https://www.meetup.com/Ember-js-Berlin/events/250775329/)
+* [Data Flow in Ember - Ember Berlin Meetup](https://www.meetup.com/Ember-js-Berlin/events/250775329/), Berlin 🇩🇪
   * [GitHub Repo](https://github.com/chadian/emberbook)
   * [Slides](https://github.com/chadian/emberbook/blob/master/slides/data-flow-in-ember.pdf)
   * [EmberBook Sample Application](https://chadian.github.io/emberbook/)
-* [Design Patterns in Ember - Ember Berlin Meetup](https://www.meetup.com/Ember-js-Berlin/events/246067073/)
+* [Design Patterns in Ember - Ember Berlin Meetup](https://www.meetup.com/Ember-js-Berlin/events/246067073/), Berlin 🇩🇪
   * [Slides](https://github.com/chadian/ember-js-berlin-design-patterns)
-* [FastBoot to the Future - Ember PDX Meetup](https://www.meetup.com/Ember-PDX/events/236506211/)
+* [FastBoot to the Future - Ember PDX Meetup](https://www.meetup.com/Ember-PDX/events/236506211/), Portland 🇺🇸
   * [Slides](https://github.com/chadian/fttf)
   * [E-Mail Dispatcher Sample App using FastBoot and Middleware](https://github.com/chadian/fttf-email-example)
   * [Blog Sample App using FastBoot and Middleware](https://github.com/chadian/fttf-dear-diary)
