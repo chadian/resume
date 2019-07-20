@@ -11,10 +11,15 @@
 </p>
 
 ## Work Experience
-### [kloeckner.i](https://www.kloeckner-i.com/en/)
+### [Heroku](https://www.heroku.com)
+#### Brooklyn (Remote) 🇺🇸
+#### Senior Software Engineer
+* **April 2019 - Present**
+
+### [kloeckner.i](https://www.kloeckner-i.com/en)
 #### Berlin 🇩🇪
 #### Senior Software Engineer
-* **April 2018 - Present**
+* **April 2018 - April 2019**
 * Developing custom Ember applications for Kloeckner Steel companies to gain insights into their orders and contracts
 * Mentoring developers and providing guidance on front end architecture
 * Integrating front end applications with GraphQL API's and tooling
