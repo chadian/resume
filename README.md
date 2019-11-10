@@ -46,7 +46,7 @@
 * **November 2014 - May 2016**
 * Aligning with cross-discipline teams to produce robust front end experiences with consistent mark-up, well-structured CSS and modular javascript
 * Architecting front end build tooling and internal framework support
-* Instruction of javascript talk series with tech department
+* Introduced javascript learning series within tech department
 
 ### Independent Contractor
 #### Edmonton 🇨🇦
@@ -92,7 +92,7 @@
 * Deeply passionate about emerging web technologies and development best practices
   * Enjoy following ECMAScript and the evolution of javascript by the TC39 and community
   * Love to discover new design patterns and architectures
-  * Curious to learn about new languages and features that make them unique, and what problems they can solve
+  * Curious to learn about new languages, what makes them unique, and what problems they can solve
   * Favourite tech podcasts: [The Frontside Podcast](https://frontsidethepodcast.simplecast.fm/), [JS Party](https://changelog.com/jsparty), [The Changelog](https://changelog.com/podcast)
 
 ### Community Involvement
@@ -102,7 +102,7 @@
 * [Technical blog](http://sticksnglue.com)
 * [StackOverflow](http://stackoverflow.com/users/2482082/chad-carbert)
 
-#### Instruction and Mentorship
+#### Teaching & Mentorship
 * Volunteer Instructor, Introduction to Javascript and Front-End Web Development.
  [ReDI School](https://www.redi-school.org/berlin-career-program) (Spring 2018, Fall 2018, Spring 2019)
 * Volunteer Instructor, [Hour of Code 2016](https://hourofcode.com)
@@ -114,8 +114,10 @@
 * I am always interested in finding opportunities to have a discussion, brainstorm solutions to an issue, or create a pull request. Check out my [other contributions and work](https://github.com/chadian).
 
 #### Talks
+* [The Future of Responsive Component Design](https://emberfest.eu/schedule/#chad-carbert), Copenhagen 🇩🇰
+	* [YouTube](https://www.youtube.com/watch?v=RIdjk9_RSBY)
 * [Ember, GraphQL and Testing - GOTO Night](https://eventil.com/events/goto-night-exploring-modern-web-development-ember-graphql-and-testing), Berlin 🇩🇪
-* [Ember and GraphQL in Practice - EmberFest Conference 2018](https://emberfest.eu/schedule/#rocky-neurock), Amsterdam 🇳🇱
+* [Ember and GraphQL in Practice - EmberFest Conference 2018](https://emberfest.eu/2018/schedule/#rocky-neurock), Amsterdam 🇳🇱
   * [YouTube](https://www.youtube.com/watch?v=kgfBexYbM68&t=3s)
 * [Data Flow in Ember - Ember Berlin Meetup](https://www.meetup.com/Ember-js-Berlin/events/250775329/), Berlin 🇩🇪
   * [GitHub Repo](https://github.com/chadian/emberbook)
@@ -128,9 +130,11 @@
   * [E-Mail Dispatcher Sample App using FastBoot and Middleware](https://github.com/chadian/fttf-email-example)
   * [Blog Sample App using FastBoot and Middleware](https://github.com/chadian/fttf-dear-diary)
 
-#### Conferences Attended
+#### Conferences & Events
+* EmberFest 2019 ([Speaker](https://www.youtube.com/watch?v=RIdjk9_RSBY))
 * React Day Berlin 2018
-* EmberFest 2018 ([Speaker](https://www.youtube.com/watch?v=kgfBexYbM68&t=3s))
+* EmberFest 2018 ([Speaker](https://www.youtube.com/watch?v=kgfBexYbM68&))
+* Factory Berlin Democracy Hackathon ([Participant](https://factoryberlin.com/event/democracy-hackathon/))
 * JSConf EU 2017
 * EmberConf 2017
 * EmberConf 2016
